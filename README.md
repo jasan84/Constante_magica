@@ -10,14 +10,14 @@ Aunque la generación de cuadrados mágicos no siempre es fácil, cuando tienen 
     Si la siguiente posición está ocupada, colocamos el número justo debajo de la posición donde colocamos el último número. Si estamos en la última fila, volvemos a la primera.
 
 
- Este cuadrado mágico, una vez completo, tendrá 65 como constante mágica.
-Entrada
-
+ Este cuadrado mágico, una vez completo, tendrá 65 como constante mágica.<br/>
+ 
+Entrada<br/>
 La entrada estará compuesta de distintos casos de prueba. Cada caso de prueba consiste en una línea con dos números: n y k. El primero de ellos, n, indica el tamaño de cada lado del cuadrado y será siempre un número impar mayor o igual que 1 y menor que 100. El segundo, k, indica el número que aparecerá en el centro de la fila superior y será siempre mayor o igual que 0 y menor que 1000.
 
-Los casos de entrada finalizan con el caso especial "0 0", que no debe generar salida.
-Salida
+Los casos de entrada finalizan con el caso especial "0 0", que no debe generar salida.<br/>
 
+Salida<br/>
 Para cada caso de prueba, se mostrará la constante mágica del cuadrado resultante.<br/>
 
 Entrada de ejemplo <br/>
