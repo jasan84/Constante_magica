@@ -11,10 +11,8 @@ public class Constante_magica {
 		int numero;
 		
 		do {
-			System.out.println("INGRESA LA CANTIDAD DE CUADROS (IMPAR)");	
+			System.out.println("INGRESA LA CANTIDAD DE CUADROS (IMPAR), Y EL NÚMERO INICIAL (MAYOR A 0)");	
 			cant_cuadros = entrada.nextInt();
-			
-			System.out.println("INGRESA EL NÚMERO INICIAL (MAYOR A 0)");
 			numero = entrada.nextInt();
 			
 			int[][] cuadro = new int [cant_cuadros][cant_cuadros];
